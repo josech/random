@@ -1,0 +1,1 @@
+Muestra un mensaje si un numero aleatorio es mayo o menor que 0.5
